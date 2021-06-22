@@ -14,4 +14,4 @@
 - Firebase for the backend
 - Stripe to make payment
 
-## install cocoapods and do a pod install to include all dependencies
+## Install cocoapods and do a pod install to include all dependencies
