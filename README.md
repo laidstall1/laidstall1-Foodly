@@ -14,4 +14,6 @@
 - Firebase for the backend
 - Stripe to make payment
 
-## Install cocoapods and do a pod install to include all dependencies
+## How to test:
+- Install cocoapods
+- using the terminal, navigate to the project directory then run pod install
