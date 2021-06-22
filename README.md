@@ -15,5 +15,5 @@
 - Stripe to make payment
 
 ## How to test:
-- Install cocoapods
+- install cocoapods
 - using the terminal, navigate to the project directory then run pod install
