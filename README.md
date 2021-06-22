@@ -5,7 +5,7 @@
 - view the list of dishes a restaurant offers
 - add preferred dishes to cart
 - choose quantity of food and make payment
-- input his/her address to have it delivered to his/her doorstep.
+- input an address and have it delivered to their doorsteps.
 
 
 
